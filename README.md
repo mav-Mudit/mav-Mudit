@@ -8,17 +8,28 @@ I am passionate about **software development, AI-integrated workflows, and web a
 ### 🔧 Skills & Technologies
 
 **Languages:** Python, JavaScript, Java, C++, Kotlin  
-**Frameworks & Libraries:** Flask, Node.js, Express.js, React.js, SQLAlchemy  
+**Frameworks & Libraries:** Flask, Node.js, Express.js, React.js, SQLAlchemy, LangChain  
 **Databases:** MongoDB, SQLite  
 **GenAI / AI:** LLM workflows, prompt engineering, RAG applications, API integration  
-**Tools & Platforms:** Git, Docker, REST APIs, Postman  
+**Tools & Platforms:** Git, REST APIs, Postman
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000000?style=flat&logo=sqlalchemy&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-FF9900?style=flat&logo=langchain&logoColor=white)
+
+
 
 ---
 
@@ -32,7 +43,7 @@ I am passionate about **software development, AI-integrated workflows, and web a
 
 ### 🚀 Projects
 
-**[AI-Exam FORGE](#)** – *Python, RAG, SQLAlchemy, Arcana, LLMs*  
+**[AI-Exam FORGE]** – *Python, RAG, SQLAlchemy, Arcana, LLMs*  
 - Developing a secure, automated workflow for exam and exercise item creation, reducing manual effort by ~90%.  
 - Designing SQLite database to map PDFs to Arcana IDs, track usage limits, and monitor document status.  
 - Integrating LLMs and testing API endpoints to ensure reliability and automation.  
@@ -56,8 +67,8 @@ I am passionate about **software development, AI-integrated workflows, and web a
 
 ### 🌱 Currently Learning
 
-- Advanced Machine Learning & AI  
-- German Language (A1 → B1)  
+- GenAI
+- German Language (A1 → A2.2)  
 
 ---
 
