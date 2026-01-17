@@ -43,7 +43,7 @@ I am passionate about **software development, AI-integrated workflows, and web a
 
 ### 🚀 Projects
 
-**[AI-Exam FORGE]** – *Python, RAG, SQLAlchemy, Arcana, LLMs*  
+**AI-Exam FORGE** – *Python, RAG, SQLAlchemy, Arcana, LLMs*  
 - Developing a secure, automated workflow for exam and exercise item creation, reducing manual effort by ~90%.  
 - Designing SQLite database to map PDFs to Arcana IDs, track usage limits, and monitor document status.  
 - Integrating LLMs and testing API endpoints to ensure reliability and automation.  
