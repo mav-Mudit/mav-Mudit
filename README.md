@@ -1,16 +1,17 @@
 ## Hi there 👋
 
 I'm **Mudit Tandon**, a Master’s student in **Applied Computer Science** at the University of Göttingen.  
-I am passionate about building **scalable software solutions**, **web applications**, and **AI/ML projects**, and I aspire to contribute to **cutting-edge technologies** in software and space exploration.  
+I am passionate about **software development, AI-integrated workflows, and web applications**, and I aim to contribute to **scalable, cutting-edge technologies**.  
 
 ---
 
-### 🔧 Technologies & Tools
+### 🔧 Skills & Technologies
 
-**Languages:** Python, JavaScript, C++, Java, Kotlin  
-**Web Development:** MERN Stack, REST APIs, HTML, CSS  
-**Tools & Platforms:** Git, Docker, Linux, VS Code, Postman  
-**AI / ML:** Machine Learning, Data Analysis, OpenAI API  
+**Languages:** Python, JavaScript, Java, C++, Kotlin  
+**Frameworks & Libraries:** Flask, Node.js, Express.js, React.js, SQLAlchemy  
+**Databases:** MongoDB, SQLite  
+**GenAI / AI:** LLM workflows, prompt engineering, RAG applications, API integration  
+**Tools & Platforms:** Git, Docker, REST APIs, Postman  
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -21,10 +22,35 @@ I am passionate about building **scalable software solutions**, **web applicatio
 
 ---
 
-### 🚀 Key Projects
+### 💼 Experience
 
-- **[SWASTHAYA-SERVICES](https://github.com/username/swasthaya-services)** – MERN stack & ML-driven healthcare platform, presented at a national conference.  
-- **[Movie Explorer](https://github.com/username/movie-explorer)** – Web app to search and explore movies using TMDB API.   
+**Student Assistant – University of Göttingen (Dec 2025 – Present)**  
+- Designing, developing, and testing a **RAG-based GenAI application** for automated exam and exercise item generation using Arcana API and LLMs.  
+- Building backend services, managing local databases, and automating workflows to increase efficiency.
+
+---
+
+### 🚀 Projects
+
+**[AI-Exam FORGE](#)** – *Python, RAG, SQLAlchemy, Arcana, LLMs*  
+- Developing a secure, automated workflow for exam and exercise item creation, reducing manual effort by ~90%.  
+- Designing SQLite database to map PDFs to Arcana IDs, track usage limits, and monitor document status.  
+- Integrating LLMs and testing API endpoints to ensure reliability and automation.  
+
+**[SWASTHAYA-SERVICES](https://swasthya-serivce.onrender.com/)** – *MERN Stack, Machine Learning*  
+- Nationwide healthcare platform providing real-time access to plasma donors, hospital beds, medicine suppliers, ambulance services, and oxygen cylinders.  
+- Developed backend REST APIs and responsive frontend components; integrated ML-based disease prediction.  
+
+**[CinephileCentral](https://cinephilecentral.netlify.app/)** – *React.js, TMDB API*  
+- Built a responsive React application to browse current, upcoming, and popular films.  
+- Integrated TMDB API for dynamic movie content and smooth user experience.
+
+---
+
+### 🎓 Education
+
+**Master of Science in Applied Computer Science** – University of Göttingen (Expected 2027)  
+**Bachelor of Technology in Information Technology** – Guru Tegh Bahadur Institute of Technology, New Delhi, India (CGPA: 9.47 / 10, 2024)  
 
 ---
 
@@ -35,10 +61,18 @@ I am passionate about building **scalable software solutions**, **web applicatio
 
 ---
 
-### 📫 Connect with Me
+### 🗣 Languages
 
-[LinkedIn](https://www.linkedin.com/in/mudit-tandon/) | [Email](mailto:youremail@example.com)
+- **Hindi, Punjabi:** Native  
+- **English:** C2 – Listening, Reading, Writing, Speaking  
+- **German:** A2 – Listening, Reading, Writing, Speaking  
 
 ---
 
-> "Strive not to be a success, but rather to be of value." – Albert Einstein
+### 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/mudit-tandon-b05481204/) | [Email](mailto:mudittandon34@gmail.com)
+---
+
+> "Don't chase success, chase excellence; success will fall into place eventually." – Mav
+
