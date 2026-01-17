@@ -82,7 +82,7 @@ I am passionate about **software development, AI-integrated workflows, and web a
 
 ### 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/mudit-tandon-b05481204/) | [Email](mailto:mudittandon34@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mudit-tandon-b05481204/) | [Email](mailto:mudittandon34@gmail.com) | [Insta](https://www.instagram.com/maverick_mudit_/) | [Letterboxd](https://letterboxd.com/mav_mudit/) | 
 ---
 
 > "Don't chase success, chase excellence; success will fall into place eventually." – Mav
