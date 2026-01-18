@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallo 👋
 
 I'm **Mudit Tandon**, a Master’s student in **Applied Computer Science** at the University of Göttingen.  
 I am passionate about **software development, AI-integrated workflows, and web applications**, and I aim to contribute to **scalable, cutting-edge technologies**.  
@@ -45,7 +45,7 @@ I am passionate about **software development, AI-integrated workflows, and web a
 
 **AI-Exam FORGE** – *Python, RAG, SQLAlchemy, Arcana, LLMs*  
 - Developing a secure, automated workflow for exam and exercise item creation, reducing manual effort by ~90%.  
-- Designing SQLite database to map PDFs to Arcana IDs, track usage limits, and monitor document status.  
+- Designing a SQLite database to map PDFs to Arcana IDs, track usage limits, and monitor document status.  
 - Integrating LLMs and testing API endpoints to ensure reliability and automation.  
 
 **[SWASTHAYA-SERVICES](https://swasthya-serivce.onrender.com/)** – *MERN Stack, Machine Learning*  
@@ -67,8 +67,10 @@ I am passionate about **software development, AI-integrated workflows, and web a
 
 ### 🌱 Currently Learning
 
-- GenAI
-- German Language (A1 → A2.2)  
+- AI
+- GenAI using Langchain
+- Cloud Computing
+- German Language (A2.2)  
 
 ---
 
