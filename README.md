@@ -1,7 +1,7 @@
 ## Hallo 👋
 
 I'm **Mudit Tandon**, a Master’s student in **Applied Computer Science** at the University of Göttingen.  
-I am passionate about **software development, AI-integrated workflows, and web applications**, and I aim to contribute to **scalable, cutting-edge technologies**.  
+I am passionate about **software development, GenAI-integrated workflows, and web applications**, and I aim to contribute to **scalable, cutting-edge technologies**.  
 
 ---
 
@@ -10,7 +10,7 @@ I am passionate about **software development, AI-integrated workflows, and web a
 **Languages:** Python, JavaScript, Java, C++, Kotlin  
 **Frameworks & Libraries:** Flask, Node.js, Express.js, React.js, SQLAlchemy, LangChain  
 **Databases:** MongoDB, SQLite  
-**GenAI / AI:** LLM workflows, prompt engineering, RAG applications, API integration  
+**GenAI / AI:** LLM workflows, RAG applications, API integration  
 **Tools & Platforms:** Git, REST APIs, Postman
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)
@@ -69,8 +69,8 @@ I am passionate about **software development, AI-integrated workflows, and web a
 
 - AI
 - GenAI using Langchain
-- Cloud Computing
-- German Language (A2.2)  
+- Agentic AI
+- German Language 
 
 ---
 
