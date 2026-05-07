@@ -19,7 +19,7 @@
 
 I'm a Master's student at the University of Göttingen with hands-on experience shipping LLM-powered tools in a real academic environment. My focus right now is **Generative AI, NLP, and agentic AI workflows** — building things that actually work, not just demos.
 
-Previously built a production-used exam generation system for a university department using LLaMA 3.1, RAG, and Flask. Currently working on **LaymanAI**, a LangChain + RAG application for research paper summarization and video Q&A.
+Previously built a production-used exam generation system for a university department using LLaMA 3.1, RAG, and Flask.
 
 ---
 
@@ -74,29 +74,7 @@ Previously built a production-used exam generation system for a university depar
 
 ## Projects
 
-### 🔬 LaymanAI *(In Progress)*
-`Python` `Flask` `LangChain` `RAG` `ChromaDB` `HuggingFace`
-
-> Research paper summarization and YouTube video Q&A — powered by RAG and LangChain.
-
-- RAG pipeline: transcripts chunked, embedded, and stored in a vector DB for context-aware retrieval before generation.
-- Multiple summarization modes (technical, simplified, key findings) via dynamic prompt templates.
-- Supports PDF upload for research papers and YouTube video ID input for transcript-based Q&A.
-
----
-
-### 🏥 [SWASTHYA-SERVICES](https://swasthya-serivce.onrender.com/)
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
-
-> Full-stack healthcare platform — Bachelor's capstone project, team of 4.
-
-- RESTful APIs for user authentication, service management, and request handling.
-- Responsive React.js frontend with component-based architecture.
-- MongoDB + Mongoose for data modelling across multiple service categories.
-
----
-
-### ⚙️ AI-Exam FORGE
+### ⚙️ AI-Exam FORGE *(Jan 2026 – Apr 2026)*
 `Python` `Flask` `LLaMA 3.1` `RAG` `OpenAI-compatible API` `HTML/CSS/JS`
 
 > Automated exam question generation from indexed academic documents.
@@ -104,6 +82,17 @@ Previously built a production-used exam generation system for a university depar
 - Dynamic context pipeline: 15 keywords extracted per document, 3 sampled per run, focus prompts selected from predefined pools — non-repetitive output across generations.
 - Output post-processing to strip citations, metadata headers, and cut-off markers from raw LLM responses.
 - LLM parameters tuned (temperature 0.8, top_p 0.95) for diversity; inter-batch delays for rate limit handling.
+
+---
+
+### 🏥 [SWASTHYA-SERVICES](https://swasthya-serivce.onrender.com/) *(Jan 2024 – Jun 2024)*
+`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
+
+> Full-stack healthcare platform — Bachelor's capstone project, team of 4.
+
+- RESTful APIs for user authentication, service management, and request handling.
+- Responsive React.js frontend with component-based architecture.
+- MongoDB + Mongoose for data modelling across multiple service categories.
 
 ---
 
