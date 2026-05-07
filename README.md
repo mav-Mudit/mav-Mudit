@@ -71,37 +71,30 @@
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="80" align="center">🎓</td>
-<td>
+### 🎓 Student Assistant (Studentische Hilfskraft) — AI-Exam FORGE
+**University of Göttingen** · Jan 2026 – Apr 2026  
+*Department für Agrarökonomie und Rurale Entwicklung, Göttingen*
 
-**Student Assistant (Studentische Hilfskraft) — AI-Exam FORGE**  
-*University of Göttingen · Jan 2026 – Apr 2026*  
-*Department für Agrarökonomie und Rurale Entwicklung*
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA_3.1-8A2BE2?style=flat-square&logo=meta&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=buffer&logoColor=white)
 
 - Built a Flask REST API orchestrating a two-stage LLM pipeline — accepts an Arcana document ID, auto-extracts 15 keywords, randomly samples 3, and generates curriculum-aligned exam questions across randomized focus areas.
 - Used `meta-llama-3.1-8b-instruct` via GWDG Academic Cloud API to generate MCQ sets (10 items, labeled answers) and open-ended questions with full model answers (*Musterlösung*).
 - Built a German-language instructor frontend with async fetch, real-time loading states, and robust error handling.
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🚀 Projects
 
-<table>
-<tr>
-<td width="80" align="center">⚙️</td>
-<td>
+### ⚙️ AI-Exam FORGE · *Jan 2026 – Apr 2026*
 
-**AI-Exam FORGE** · *Jan 2026 – Apr 2026*  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA_3.1-8A2BE2?style=flat-square&logo=meta&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=buffer&logoColor=white)
+![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 > Automated exam question generation from indexed academic documents.
 
@@ -109,16 +102,10 @@
 - Output post-processing to strip citations, metadata headers, and cut-off markers from raw LLM responses.
 - LLM parameters tuned (temperature 0.8, top_p 0.95) for diversity; inter-batch delays for rate limit handling.
 
-</td>
-</tr>
+---
 
-<tr><td colspan="2"><br></td></tr>
+### 🏥 SWASTHYA-SERVICES · *Jan 2024 – Jun 2024* · [Live Demo](https://swasthya-serivce.onrender.com/)
 
-<tr>
-<td width="80" align="center">🏥</td>
-<td>
-
-**[SWASTHYA-SERVICES](https://swasthya-serivce.onrender.com/)** · *Jan 2024 – Jun 2024*  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -129,10 +116,6 @@
 - RESTful APIs for user authentication, service management, and request handling.
 - Responsive React.js frontend with component-based architecture.
 - MongoDB + Mongoose for data modelling across multiple service categories.
-
-</td>
-</tr>
-</table>
 
 ---
 
