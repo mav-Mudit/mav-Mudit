@@ -160,23 +160,7 @@
 
 ---
 
-## 🐍 Contribution Graph
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mav-Mudit/mav-Mudit/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mav-Mudit/mav-Mudit/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mav-Mudit/mav-Mudit/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-> ⚠️ **Setup needed:** To activate the snake, create a GitHub Actions workflow in your profile repo. See [platane/snk](https://github.com/platane/snk) for the 2-minute setup.
-
----
-
-## 💬 Dev Quote
 
 <div align="center">
 
