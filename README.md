@@ -1,15 +1,19 @@
 <div align="center">
 
-# Mudit Tandon
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mudit+Tandon+%F0%9F%91%8B;M.Sc.+Applied+Computer+Science;Building+GenAI+%26+LLM+Applications;Open+to+Werkstudent+%2F+Internships" alt="Typing SVG" />
 
-**M.Sc. Applied Computer Science · University of Göttingen, Germany**
+**University of Göttingen, Germany**
 
-*Building LLM-powered applications, RAG pipelines, and full-stack web systems.*  
-*Seeking Werkstudent / Internship roles in Software Engineering or Generative AI.*
+```
+🧠 GenAI & LLM Applications    🔗 RAG Pipelines
+🌐 Full-Stack Web Systems       📍 Göttingen, Germany
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudit-tandon-b05481204/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudittandon34@gmail.com)
-[![Location](https://img.shields.io/badge/Göttingen,_Germany-4A90D9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mav-Mudit)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mav-Mudit&style=for-the-badge&color=6E40C9)
 
 </div>
 
@@ -32,6 +36,8 @@ Previously built a production-used exam generation system for a university depar
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
 **Frameworks & Libraries**  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -42,6 +48,7 @@ Previously built a production-used exam generation system for a university depar
 
 **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **AI / GenAI**  
 ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square&logo=openai&logoColor=white)
