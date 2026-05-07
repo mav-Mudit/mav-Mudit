@@ -19,15 +19,19 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I'm a Master's student at the University of Göttingen with hands-on experience shipping LLM-powered tools in a real academic environment. My focus right now is **Generative AI, NLP, and agentic AI workflows** — building things that actually work, not just demos.
+> *Master's student at the University of Göttingen building real LLM-powered tools — not just demos.*
 
-Previously built a production-used exam generation system for a university department using LLaMA 3.1, RAG, and Flask.
+- 🔭 Currently focused on **Generative AI, NLP, and agentic AI workflows**
+- 🏛️ Previously built a **production-used exam generation system** for a university department using LLaMA 3.1, RAG, and Flask
+- 🌱 Deepening expertise in **LangChain, NLP, and Deep Learning**
+- 🇩🇪 Based in Göttingen — actively improving German (A2 → B1)
+- 💼 Open to **Werkstudent / Internship** roles in SE or GenAI
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -65,21 +69,39 @@ Previously built a production-used exam generation system for a university depar
 
 ---
 
-## Experience
+## 💼 Experience
 
-### 🎓 Student Assistant (Studentische Hilfskraft) · University of Göttingen
-**Jan 2026 – Apr 2026 · Department für Agrarökonomie und Rurale Entwicklung**
+<table>
+<tr>
+<td width="80" align="center">🎓</td>
+<td>
+
+**Student Assistant (Studentische Hilfskraft) — AI-Exam FORGE**  
+*University of Göttingen · Jan 2026 – Apr 2026*  
+*Department für Agrarökonomie und Rurale Entwicklung*
 
 - Built a Flask REST API orchestrating a two-stage LLM pipeline — accepts an Arcana document ID, auto-extracts 15 keywords, randomly samples 3, and generates curriculum-aligned exam questions across randomized focus areas.
 - Used `meta-llama-3.1-8b-instruct` via GWDG Academic Cloud API to generate MCQ sets (10 items, labeled answers) and open-ended questions with full model answers (*Musterlösung*).
 - Built a German-language instructor frontend with async fetch, real-time loading states, and robust error handling.
 
+</td>
+</tr>
+</table>
+
 ---
 
-## Projects
+## 🚀 Projects
 
-### ⚙️ AI-Exam FORGE *(Jan 2026 – Apr 2026)*
-`Python` `Flask` `LLaMA 3.1` `RAG` `OpenAI-compatible API` `HTML/CSS/JS`
+<table>
+<tr>
+<td width="80" align="center">⚙️</td>
+<td>
+
+**AI-Exam FORGE** · *Jan 2026 – Apr 2026*  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA_3.1-8A2BE2?style=flat-square&logo=meta&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=buffer&logoColor=white)
 
 > Automated exam question generation from indexed academic documents.
 
@@ -87,10 +109,20 @@ Previously built a production-used exam generation system for a university depar
 - Output post-processing to strip citations, metadata headers, and cut-off markers from raw LLM responses.
 - LLM parameters tuned (temperature 0.8, top_p 0.95) for diversity; inter-batch delays for rate limit handling.
 
----
+</td>
+</tr>
 
-### 🏥 [SWASTHYA-SERVICES](https://swasthya-serivce.onrender.com/) *(Jan 2024 – Jun 2024)*
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
+<tr><td colspan="2"><br></td></tr>
+
+<tr>
+<td width="80" align="center">🏥</td>
+<td>
+
+**[SWASTHYA-SERVICES](https://swasthya-serivce.onrender.com/)** · *Jan 2024 – Jun 2024*  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 > Full-stack healthcare platform — Bachelor's capstone project, team of 4.
 
@@ -98,26 +130,63 @@ Previously built a production-used exam generation system for a university depar
 - Responsive React.js frontend with component-based architecture.
 - MongoDB + Mongoose for data modelling across multiple service categories.
 
----
-
-## Education
-
-| Degree | Institution | Year |
-|---|---|---|
-| M.Sc. Applied Computer Science | University of Göttingen, Germany | Expected 2027 |
-| B.Tech Information Technology | GGSIPU, New Delhi, India | 2020 – 2024 · CGPA 9.47/10 |
-
-**Relevant Coursework:** Cloud Computing · Parallel Computing · Data Management for Data Science · AI in Networking · Android Development · Requirements Engineering
+</td>
+</tr>
+</table>
 
 ---
 
-## Languages
+## 🎓 Education
 
-| Language | Proficiency |
-|---|---|
-| Hindi, Punjabi | Native |
-| English | C2 |
-| German | A2 → actively improving |
+<table>
+<tr>
+<td>🏛️</td>
+<td><b>M.Sc. Applied Computer Science</b></td>
+<td>University of Göttingen, Germany</td>
+<td><i>Expected 2027</i></td>
+</tr>
+<tr>
+<td>🎓</td>
+<td><b>B.Tech Information Technology</b></td>
+<td>GGSIPU, New Delhi, India</td>
+<td><i>2020 – 2024 · CGPA 9.47/10</i></td>
+</tr>
+</table>
+
+**📚 Relevant Coursework:**
+
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Parallel Computing](https://img.shields.io/badge/Parallel_Computing-FF6B6B?style=flat-square&logo=nvidia&logoColor=white)
+![Data Management](https://img.shields.io/badge/Data_Management_for_DS-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AI in Networking](https://img.shields.io/badge/AI_in_Networking-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+![Android Dev](https://img.shields.io/badge/Android_Development-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Requirements Eng](https://img.shields.io/badge/Requirements_Engineering-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Mudit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mav-Mudit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mav-Mudit&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mav-Mudit&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🗣️ Languages
+
+<div align="center">
+
+![Hindi](https://img.shields.io/badge/Hindi-Native-FF9933?style=for-the-badge)
+![Punjabi](https://img.shields.io/badge/Punjabi-Native-FF9933?style=for-the-badge)
+![English](https://img.shields.io/badge/English-C2-0A66C2?style=for-the-badge)
+![German](https://img.shields.io/badge/German-A2_→_B1-black?style=for-the-badge&logo=germany)
+
+</div>
 
 ---
 
