@@ -151,10 +151,36 @@
 
 <div align="center">
 
-![Mudit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mav-Mudit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mav-Mudit&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=mav-Mudit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mav-Mudit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mav-Mudit&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=mav-Mudit&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="495"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mav-Mudit/mav-Mudit/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mav-Mudit/mav-Mudit/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mav-Mudit/mav-Mudit/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> ⚠️ **Setup needed:** To activate the snake, create a GitHub Actions workflow in your profile repo. See [platane/snk](https://github.com/platane/snk) for the 2-minute setup.
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
