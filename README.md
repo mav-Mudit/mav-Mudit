@@ -144,22 +144,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mav-Mudit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mav-Mudit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=mav-Mudit&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="495"/>
-
-</div>
-
----
-
-
----
-
 ## 💬 Dev Quote
 
 <div align="center">
