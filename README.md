@@ -135,12 +135,12 @@
 
 **📚 Relevant Coursework:**
 
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Parallel Computing](https://img.shields.io/badge/Parallel_Computing-FF6B6B?style=flat-square&logo=nvidia&logoColor=white)
-![Data Management](https://img.shields.io/badge/Data_Management_for_DS-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AI in Networking](https://img.shields.io/badge/AI_in_Networking-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+![Cloud and Service Computing](https://img.shields.io/badge/Cloud_Computing-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Parallel Computing ](https://img.shields.io/badge/Parallel_Computing-FF6B6B?style=flat-square&logo=nvidia&logoColor=white)
+![Data Management for Data Science](https://img.shields.io/badge/Data_Management_for_DS-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AI-Empowered Networking and Mobile Communications](https://img.shields.io/badge/AI_in_Networking-8A2BE2?style=flat-square&logo=openai&logoColor=white)
 ![Android Dev](https://img.shields.io/badge/Android_Development-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Requirements Eng](https://img.shields.io/badge/Requirements_Engineering-F05032?style=flat-square&logo=git&logoColor=white)
+![Requirements Engineering](https://img.shields.io/badge/Requirements_Engineering-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
