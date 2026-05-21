@@ -85,20 +85,15 @@
 
 ## 🚀 Projects
 
-### 🚀 CareerPilot AI
-**Full-Stack GenAI Job Preparation Platform**
+### 🚀 CareerPilot AI · *May 2026*  [Live Demo](https://careerpilot-ai-blond.vercel.app)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs-GPT_Class-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+- Built a full-stack GenAI-powered job preparation platform that enables users to upload resumes, analyze job descriptions, and receive AI-generated interview strategies with match scoring.
+- Engineered a structured LLM prompt pipeline using JSON schema validation to generate tailored technical and behavioral interview questions, skill gap analysis, and personalized preparation roadmaps.
+- Implemented JWT-based authentication with user registration, login, and logout functionality using Bearer token flow, managing authenticated requests via Axios interceptors and MongoDB-backed user persistence.
+- Implemented PDF resume parsing using Multer and pdf-parse, extracting and preprocessing candidate data before feeding it into the AI analysis pipeline.
+- Designed a modular frontend architecture using React Context API, custom hooks, and a service layer for state management and API communication.
 
-- Built a full-stack AI-powered job preparation platform that analyzes resumes and job descriptions to generate personalized interview strategies and skill gap insights.
-- Engineered a structured LLM pipeline using JSON schema validation to generate technical/behavioral questions and adaptive preparation roadmaps.
-- Implemented JWT-based authentication with registration, login, and logout using Bearer token flow, managed via Axios interceptors and MongoDB persistence.
-- Developed secure PDF resume parsing using Multer and pdf-parse for preprocessing candidate data before LLM analysis.
-- Designed a modular React architecture using Context API, custom hooks, and service layer for scalable state and API management.
+---
 
 ### ⚙️ AI-Exam FORGE · *Jan 2026 – Apr 2026*
 
