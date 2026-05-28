@@ -24,7 +24,7 @@
 > *Master's student at the University of Göttingen building real LLM-powered tools — not just demos.*
 
 - 🔭 Currently focused on **Generative AI, NLP, and agentic AI workflows**
-- 🏛️ Previously built a **production-used exam generation system** for a university department using LLaMA 3.1, RAG, and Flask
+- 🏛️ Built an exam generation system **currently in active use by instructors** at the University of Göttingen using LLaMA 3.1, RAG, and Flask
 - 🌱 Deepening expertise in **LangChain, NLP, and Deep Learning**
 - 🇩🇪 Based in Göttingen — actively improving German (A2 → B1)
 - 💼 Open to **Werkstudent / Internship** roles in SE or GenAI
@@ -69,7 +69,7 @@
 ## 💼 Experience
 
 ### 🎓 Student Assistant (Studentische Hilfskraft) — AI-Exam FORGE
-**University of Göttingen** · Jan 2026 – Apr 2026  
+**University of Göttingen** · Dec 2025 – Apr 2026  
 *Department für Agrarökonomie und Rurale Entwicklung, Göttingen*
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
@@ -85,17 +85,25 @@
 
 ## 🚀 Projects
 
-### 🚀 CareerPilot AI · *May 2026*  [Live Demo](https://careerpilot-ai-blond.vercel.app)
+### 🚀 CareerPilot AI · *May 2026* · [Live Demo](https://careerpilot-ai-blond.vercel.app)
 
-- Built a full-stack GenAI-powered job preparation platform that enables users to upload resumes, analyze job descriptions, and receive AI-generated interview strategies with match scoring.
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+
+> Full-stack GenAI-powered job preparation platform.
+
+- Built a platform enabling users to upload resumes, analyze job descriptions, and receive AI-generated interview strategies with match scoring.
 - Engineered a structured LLM prompt pipeline using JSON schema validation to generate tailored technical and behavioral interview questions, skill gap analysis, and personalized preparation roadmaps.
-- Implemented JWT-based authentication with user registration, login, and logout functionality using Bearer token flow, managing authenticated requests via Axios interceptors and MongoDB-backed user persistence.
-- Implemented PDF resume parsing using Multer and pdf-parse, extracting and preprocessing candidate data before feeding it into the AI analysis pipeline.
-- Designed a modular frontend architecture using React Context API, custom hooks, and a service layer for state management and API communication.
+- Implemented JWT-based authentication with Bearer token flow, Axios interceptors, and MongoDB-backed user persistence.
+- Implemented PDF resume parsing using Multer and pdf-parse, preprocessing candidate data before feeding it into the AI pipeline.
+- Designed a modular frontend architecture using React Context API, custom hooks, and a dedicated service layer.
 
 ---
 
-### ⚙️ AI-Exam FORGE · *Jan 2026 – Apr 2026*
+### ⚙️ AI-Exam FORGE · *Dec 2025 – Apr 2026*
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -145,10 +153,10 @@
 
 **📚 Relevant Coursework:**
 
-![Cloud and Service Computing](https://img.shields.io/badge/Cloud_Computing-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Parallel Computing ](https://img.shields.io/badge/Parallel_Computing-FF6B6B?style=flat-square&logo=nvidia&logoColor=white)
-![Data Management for Data Science](https://img.shields.io/badge/Data_Management_for_DS-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AI-Empowered Networking and Mobile Communications](https://img.shields.io/badge/AI_in_Networking-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Parallel Computing](https://img.shields.io/badge/Parallel_Computing-FF6B6B?style=flat-square&logo=nvidia&logoColor=white)
+![Data Management](https://img.shields.io/badge/Data_Management_for_DS-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AI in Networking](https://img.shields.io/badge/AI_in_Networking-8A2BE2?style=flat-square&logo=openai&logoColor=white)
 ![Android Dev](https://img.shields.io/badge/Android_Development-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Requirements Engineering](https://img.shields.io/badge/Requirements_Engineering-F05032?style=flat-square&logo=git&logoColor=white)
 
