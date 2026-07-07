@@ -26,7 +26,7 @@
 - 🔭 Currently focused on **Generative AI, NLP, and agentic AI workflows**
 - 🏛️ Built an exam generation system **currently in active use by instructors** at the University of Göttingen using LLaMA 3.1, RAG, and Flask
 - 🌱 Deepening expertise in **LangChain, NLP, and Deep Learning**
-- 🇩🇪 Based in Göttingen — actively improving German (A2 → B1)
+- 🇩🇪 Based in Göttingen — actively improving German (B1.1 → B1.2)
 - 💼 Open to **Werkstudent / Internship** roles in SE or GenAI
 
 ---
@@ -178,8 +178,8 @@
 
 ![Hindi](https://img.shields.io/badge/Hindi-Native-FF9933?style=for-the-badge)
 ![Punjabi](https://img.shields.io/badge/Punjabi-Native-FF9933?style=for-the-badge)
-![English](https://img.shields.io/badge/English-C2-0A66C2?style=for-the-badge)
-![German](https://img.shields.io/badge/German-A2_→_B1-black?style=for-the-badge&logo=germany)
+![English](https://img.shields.io/badge/English-C1-0A66C2?style=for-the-badge)
+![German](https://img.shields.io/badge/German-B1.1_→_B1.2-black?style=for-the-badge&logo=germany)
 
 </div>
 
