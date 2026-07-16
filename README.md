@@ -24,8 +24,7 @@
 > *Master's student at the University of Göttingen building real LLM-powered tools — not just demos.*
 
 - 🔭 Currently focused on **Generative AI, NLP, and agentic AI workflows**
-- 🏛️ Built an exam generation system **currently in active use by instructors** at the University of Göttingen using LLaMA 3.1, RAG, and Flask
-- 🌱 Deepening expertise in **LangChain, NLP, and Deep Learning**
+- 🏛️ Built an exam generation system **currently in active use by instructors** at the University of Göttingen
 - 🇩🇪 Based in Göttingen — actively improving German (B1.1 → B1.2)
 - 💼 Open to **Werkstudent / Internship** roles in SE or GenAI
 
