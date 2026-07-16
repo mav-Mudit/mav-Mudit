@@ -178,7 +178,7 @@
 ![Hindi](https://img.shields.io/badge/Hindi-Native-FF9933?style=for-the-badge)
 ![Punjabi](https://img.shields.io/badge/Punjabi-Native-FF9933?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-C1-0A66C2?style=for-the-badge)
-![German](https://img.shields.io/badge/German-B1.1_→_B1.2-black?style=for-the-badge&logo=germany)
+![German](https://img.shields.io/badge/German-B1.1-black?style=for-the-badge&logo=germany)
 
 </div>
 
